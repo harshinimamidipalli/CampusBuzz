@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "CampusBuzz",
+    "slug": "CampusBuzz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CampusBuzz_Logo.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/CampusBuzz_Splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.harshini-mamidipalli.CampusBuzz"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/CampusBuzz_Logo.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.harshini_mamidipalli.CampusBuzz"
+    },
+    "web": {
+      "favicon": "./assets/CampusBuzz_Logo.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ad2c0a4-a24a-4e81-ad84-c29701e1eb5c"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8ad2c0a4-a24a-4e81-ad84-c29701e1eb5c"
+    }
+  }
+}
